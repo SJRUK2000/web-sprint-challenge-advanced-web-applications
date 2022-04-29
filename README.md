@@ -64,14 +64,14 @@ The endpoints needed for this project are the following:
 In order to complete this project, you must fix the following modules:
 
 x [frontend/axios/index.js](frontend/axios/index.js)
-- [frontend/components/App.js](frontend/components/App.js)
-- [frontend/components/LoginForm.js](frontend/components/LoginForm.js)
-- [frontend/components/Articles.js](frontend/components/Articles.js)
-- [frontend/components/ArticleForm.js](frontend/components/ArticleForm.js)
+x [frontend/components/App.js](frontend/components/App.js)
+x [frontend/components/LoginForm.js](frontend/components/LoginForm.js)
+x [frontend/components/Articles.js](frontend/components/Articles.js)
+x [frontend/components/ArticleForm.js](frontend/components/ArticleForm.js)
 
 You must also also test the Spinner component in this module:
 
-- [frontend/components/Spinner.test.js](frontend/components/Spinner.test.js)
+x [frontend/components/Spinner.test.js](frontend/components/Spinner.test.js)
 
 ### Notes
 
